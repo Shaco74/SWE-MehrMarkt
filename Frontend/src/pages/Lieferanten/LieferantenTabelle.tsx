@@ -10,6 +10,7 @@ import {
   Box,
   Chip
 } from '@mui/material'
+import { ThemeColor } from 'src/@core/layouts/types'
 
 interface RowType {
   age: number
